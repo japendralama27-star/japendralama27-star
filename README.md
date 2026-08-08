@@ -1,57 +1,57 @@
-[README.md](https://github.com/user-attachments/files/30849230/README.md)
-# japendralama27-star
+[Uploading README (1).md…]()
+# torvalds
 
-> Recruiter-friendly proof and contact path.
+> Maintainer credibility and contributor clarity.
 
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
+**Theme:** Zen · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
 ## Header
 > Editing this section in the inspector.
-Hi, I'm **japendralama27-star**. This README is tuned for **get hired** with a GitHub visual system.
+Hi, I'm **torvalds**. This README is tuned for **open source** with a Zen visual system.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=japendralama27-star&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=japendralama27-star&theme=github-dark" alt="japendralama27-star hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=torvalds&theme=zen&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=torvalds&theme=zen" alt="torvalds hero section" />
   </picture>
 </p>
 ## About Me
 Shapes the short profile story and positioning.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=japendralama27-star&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=japendralama27-star&theme=github-dark" alt="japendralama27-star about section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=torvalds&theme=zen&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=torvalds&theme=zen" alt="torvalds about section" />
   </picture>
 </p>
 ## Skills
 Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=japendralama27-star&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=japendralama27-star&theme=github-dark" alt="japendralama27-star stack section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=torvalds&theme=zen&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=torvalds&theme=zen" alt="torvalds stack section" />
   </picture>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
+GitSkins stat widgets will use the **Zen** theme.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=japendralama27-star&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=japendralama27-star&theme=github-dark" alt="japendralama27-star stats section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=torvalds&theme=zen&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=torvalds&theme=zen" alt="torvalds stats section" />
   </picture>
 </p>
 ## Projects
 Highlights repositories as proof of work.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=japendralama27-star&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=japendralama27-star&theme=github-dark" alt="japendralama27-star projects section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=torvalds&theme=zen&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=torvalds&theme=zen" alt="torvalds projects section" />
   </picture>
 </p>
 ## Connect
 Contact and social links will appear here.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=japendralama27-star&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=japendralama27-star&theme=github-dark" alt="japendralama27-star social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=torvalds&theme=zen&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=torvalds&theme=zen" alt="torvalds social section" />
   </picture>
 </p>
 

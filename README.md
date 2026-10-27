@@ -1,102 +1,63 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · JAPENDRALAMA27-STAR · LIVE</sub></p>
+<img src="https://www.gitskins.com/api/section/portrait?username=japendralama27-star&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4" width="620" alt="japendralama27-star animated graduation portrait" />
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=living-identity&label=japendralama27-star&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=living-identity&label=japendralama27-star&v=wow-living-identity-1&mode=dark" width="100%" alt="japendralama27-star animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
-<p>Building useful things and sharing the work in public.</p>
-<p><a href="https://github.com/japendralama27-star">GitHub</a></p>
+<h1>japendralama27-star</h1>
+<h3>Frontend or full-stack engineer</h3>
+
+<p><a href="https://github.com/japendralama27-star"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/japendralama27-star?tab=repositories"><img src="https://img.shields.io/badge/11_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="11 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
+
+<p>I build practical software, learn in public, and turn useful ideas into shipped work.</p>
+
 </div>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+## The mission
 
-<h2>Identity, with signal</h2>
+AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>Building useful things and sharing the work in public.</p><p><strong>Focus:</strong> `HTML` · `C#` · `CSS`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>11</strong> repos<br /><strong>0</strong> stars<br /><strong>118</strong> contributions<br /><strong>0</strong> followers</p></td>
-</tr>
-</table>
+I build practical software, learn in public, and turn useful ideas into shipped work.
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
 
-<h2>What moves the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&items=HTML%3A%3ACurrent%20focus%7CC%23%3A%3AIn%20the%20build%20queue%7CCSS%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&items=HTML%3A%3ACurrent%20focus%7CC%23%3A%3AIn%20the%20build%20queue%7CCSS%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="japendralama27-star animated profile highlights" />
-</picture>
-
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The tools behind the signal</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="japendralama27-star animated technology stack" />
-</picture>
-
-<p align="center"><sub>HTML · C# · CSS · JavaScript · chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Built, shipped, shared</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&repos=japendralama27-star%2FProject%2Cjapendralama27-star%2Fjapendralama27-star%2Cjapendralama27-star%2FJS_learning%2Cjapendralama27-star%2FJustWatch_Clone&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&repos=japendralama27-star%2FProject%2Cjapendralama27-star%2Fjapendralama27-star%2Cjapendralama27-star%2FJS_learning%2Cjapendralama27-star%2FJustWatch_Clone&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="japendralama27-star animated project constellation" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&repos=japendralama27-star%2FProject%2Cjapendralama27-star%2Fjapendralama27-star%2Cjapendralama27-star%2FJS_learning%2Cjapendralama27-star%2FJustWatch_Clone&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&repos=japendralama27-star%2FProject%2Cjapendralama27-star%2Fjapendralama27-star%2Cjapendralama27-star%2FJS_learning%2Cjapendralama27-star%2FJustWatch_Clone&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="japendralama27-star animated project launch timeline" />
-</picture>
+## What I’m building
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/japendralama27-star/Project">Project</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/japendralama27-star/japendralama27-star">japendralama27-star</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/japendralama27-star/JS_learning">JS_learning</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/japendralama27-star/JustWatch_Clone">JustWatch_Clone</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/japendralama27-star/Project">Project</a></h3><p>A selected public project from this profile.</p><p><strong>Why it matters:</strong> a concrete proof point from japendralama27-star's public work.</p><p><a href="https://github.com/japendralama27-star/Project">Explore project →</a></p></td>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/japendralama27-star/japendralama27-star">japendralama27-star</a></h3><p>A selected public project from this profile.</p><p><strong>Why it matters:</strong> a concrete proof point from japendralama27-star's public work.</p><p><a href="https://github.com/japendralama27-star/japendralama27-star">Explore project →</a></p></td>
 </tr>
 </table>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<p align="center"><a href="https://github.com/japendralama27-star?tab=repositories">Explore repositories →</a> · <a href="https://github.com/japendralama27-star?tab=stars">See open-source signal →</a></p>
 
-<h2>Momentum, made visible</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="japendralama27-star animated GitHub signal" />
-</picture>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="japendralama27-star contribution energy field" />
-</picture>
-
-<p align="center"><sub>2 day current streak · 41 active days</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+## Technology arsenal
 
 <div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="japendralama27-star contact links" />
-</picture>
-<p><a href="https://github.com/japendralama27-star">GitHub</a></p>
-<p><sub>japendralama27-star · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=japendralama27-star&theme=github-dark&logos=HTML%2CC%23%2CCSS%2CJavaScript&v=signature-cap-tip-languages-3" alt="japendralama27-star technology stack" />
+
 </div>
+
+<table width="100%">
+<tr><td width="28%"><strong>Languages & tools</strong></td><td>HTML | C# | CSS | JavaScript</td></tr>
+<tr><td><strong>Profile focus</strong></td><td>Project · japendralama27-star · JS_learning</td></tr>
+<tr><td><strong>GitHub signal</strong></td><td>11 repositories · 0 stars · 118 contributions</td></tr>
+</table>
+
+## Open-source signal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=japendralama27-star&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="japendralama27-star GitHub contribution summary" />
+
+<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=japendralama27-star&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="japendralama27-star contribution activity" />
+
+</div>
+
+## Let’s build useful software
+
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+
+<p align="center"><a href="https://github.com/japendralama27-star"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/japendralama27-star?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/japendralama27-star"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
+
+<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>

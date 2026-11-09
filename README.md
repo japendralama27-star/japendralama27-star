@@ -1,33 +1,12 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4" alt="japendralama27-star hero visual" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/solar-orbits?username=japendralama27-star&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&mode=light" />
+  <img src="https://www.gitskins.com/api/section/solar-orbits?username=japendralama27-star&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4&mode=dark" width="100%" alt="My languages as planets around me" />
+</picture>
 
-## The city I built this year
+### j@mes-Rumb@
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4" alt="japendralama27-star city visual" />
-</p>
+Frontend or full-stack engineer.
 
-<p align="center"><sub>Every building is a day; taller means more contributions.</sub></p>
+<a href="https://github.com/japendralama27-star">GitHub</a>
 
-## Population
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4" alt="japendralama27-star stats visual" />
-</p>
-
-## Landmarks
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4" alt="japendralama27-star projects visual" />
-</p>
-
-## Visit
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=japendralama27-star&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F235550779%3Fv%3D4" alt="japendralama27-star social visual" />
-</p>
-
-<p align="center"><a href="https://github.com/japendralama27-star">GitHub</a></p>
-
-<p align="center"><sub>j@mes-Rumb@ · Contribution city generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<sub>Solar System · planets are languages, comets are recent pushes · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
